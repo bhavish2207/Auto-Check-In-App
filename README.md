@@ -1,0 +1,1 @@
+# Helps mark attendance on zoom meetings using the facial recognition capability of Amazon's AWS Rekognition service. Also utilized other AWS services such as S3, Dynamo DB, & Lambda, to build a prototype.
